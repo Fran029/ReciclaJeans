@@ -1,2 +1,10 @@
-package praxis.cl;public class ArchivoServicio {
+package praxis.cl;
+
+public class ArchivoServicio {
+    public ArchivoServicio() {
+    }
+
+    public void cargarDatos() {
+
+    }
 }
